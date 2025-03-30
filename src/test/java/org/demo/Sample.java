@@ -32,7 +32,7 @@ public class Sample {
 		//driver.setClipboardText("India");
 		//driver.findElement(By.id("io.appium.android.apis:id/edit")).sendKeys(driver.getClipboardText());
 		
-		
+		System.out.println("Ok");
 		
 		
 	}
